@@ -43,6 +43,9 @@ class Data:
         self.input_pre_T = pd.DataFrame()
         self.input_pre = pd.DataFrame()
         self.analysis_data = pd.DataFrame()
+        self.x_size = 0
+        self.xi_size = 0
+        self.i = 1
 
         #  读取数据
         self.input_data = pd.read_excel(f_path)
