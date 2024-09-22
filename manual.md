@@ -20,7 +20,7 @@ C-->E[数据可视化]
 
 ## 1.导入数据
 
-![主窗口](picture\main_window.png)
+![主窗口](/picture/main_window.png)
 
 ### 1.1 导入数据
 
@@ -32,7 +32,7 @@ C-->E[数据可视化]
 
   2. Excel的==格式要求==为：
 
-     ![excel格式](picture\excel.png)
+     ![excel格式](/picture/excel.png)
 
      可以有再多列的数据x3,x4等等
 
@@ -81,7 +81,7 @@ C-->E[数据可视化]
   1. 各分量名称为x1,x2······xn(请记住各分量的意义)
   2. 符号要求见附录
 
-![不确定度图](picture\uc.png)
+![不确定度图](/picture/uc.png)
 
 * 打印与保存同上
 
@@ -93,26 +93,26 @@ C-->E[数据可视化]
 
 * 各名称输入支持Latex格式
 
-  ![拟合终端](picture\fit1.png)
+  ![拟合终端](/picture/fit1.png)
 
-  ![拟合](picture\fit2.png)
+  ![拟合](/picture/fit2.png)
 
   *  如果出现糊在一起的情况，就手动调整
   *  图片中文为宋体，英文为Times New Roman
 
 * 关闭图片后
 
-  ​	![拟合选项窗口](picture\fitwindow.png)
+  ​	![拟合选项窗口](/picture/fitwindow.png)
 
   * 建议调整字体（默认为5）和标题位置（调整选项中0-1为相对位置）
 
-![拟合图](picture\fit_picture.png)
+![拟合图](/picture/fit_picture.png)
 
 * 保存：
 
   1. 放大窗口后下面有保存图标：
 
-     ![图片保存](picture\save.png)
+     ![图片保存](/picture/save.png)
 
      2.选项卡的保存选项
 
@@ -122,9 +122,9 @@ C-->E[数据可视化]
 
 * 公式等可以滞空（直接回车）
 
-![B样条终端](picture\B1.png)
+![B样条终端](/picture/B1.png)
 
-![B样条图](picture\B2.png)
+![B样条图](/picture/B2.png)
 
 * 图片设置保存如上
 
